@@ -1,1 +1,1 @@
-console.log("What now?")
+var list = [cat, dog, monkey, elephant, zebra, l]
