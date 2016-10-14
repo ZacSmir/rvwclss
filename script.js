@@ -14,6 +14,7 @@ function pickTwoAnimals(listOne, listTwo) {
   var doublelist = listOne.concat(listTwo)
   var item = doublelist[Math.floor(Math.random()*doublelist.length)];
   console.log(item)
+  return item
 }
 
 //pickTwoAnimals(list, otherList) This works. I just commented it out bc too many things running at once
@@ -22,4 +23,4 @@ function animalNameLong(name){
 console.log(name.length)
 }
 
-animalNameLong()
+animalNameLong(pickTwoAnimals)
