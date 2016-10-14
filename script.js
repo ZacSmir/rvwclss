@@ -33,7 +33,8 @@ otherThings = thingsagain + 4
 
 doOtherThings(doThings)
 
-for(i < 10, 1 = 0, i++) {
-  console.log("taco".length)
+for (i = 0; i < 10; i++) { 
+  console.log("hi");
+}
 
 
