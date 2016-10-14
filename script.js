@@ -33,7 +33,6 @@ console.log("FISH")
 
   
 function meetYou(name){
-  console.log("nice to meet you" name)
+  console.log("nice to meet you" + name)
 }
-
-meetYou(bob)
+meetYou("bob")
