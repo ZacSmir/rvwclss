@@ -10,7 +10,9 @@ var otherList = ["fish", "Gorilla", "Mosquitoe", "Cow"]
 
 pickAnimal(otherList)
 
-pickTwoAnimals(listOne, listTwo) {
-  var new_array = old_array.concat(value1[, value2[, ...[, valueN]]])
+function pickTwoAnimals(listOne, listTwo) {
+  var doublelist = listOne.concat(listTwo)
+
 }
 
+pickTwoAnimals(list)
