@@ -23,9 +23,15 @@
 //console.log(name.length)
 //}
 function doThings(){
-things = 2+2
+things = 2 + 2
+console.log(things)
 }
-animalNameLong()
+
+doThings()
+
+function doOtherThings(doThings){
+otherThings
+}
 
 
 
