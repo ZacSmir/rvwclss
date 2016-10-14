@@ -33,4 +33,7 @@ otherThings = thingsagain + 4
 
 doOtherThings(doThings)
 
+for(i < 10, 1 = 0, i++) {
+  console.log("taco".length)
+
 
