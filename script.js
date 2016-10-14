@@ -44,6 +44,6 @@ function somethingElse(responce)
 console.log("generic response idk" + responce)
 }
 
-somethingElse(meetYou("bob"))
+somethingElse(meetYou("YOU JUST LOST THE GAME!!!!"))
 
 
