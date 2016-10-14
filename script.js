@@ -23,6 +23,7 @@ function animalNameLong(name){
 console.log(name.length)
 }
 
-animalNameLong(pickTwoAnimals)
+animalNameLong()
 
-//asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfadfasdfasdfasdasfasdasdfasfasdasdfasdfasdfasfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfdsasdfasdfasdfasdfasdfasd
+
+
