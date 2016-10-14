@@ -21,24 +21,24 @@ console.log()
 //
 //function animalNameLong(name){
 //console.log(name.length)
+////}
+//function doThings(){
+//things = 2 + 2
+//console.log(things)
 //}
-function doThings(){
-things = 2 + 2
-console.log(things)
-}
-
-function doOtherThings(thingsagain){
-otherThings = thingsagain + 4
-}
-
-doOtherThings(doThings)
-
-for (i = 0; i < 10; i++) { 
-  console.log("hi");
-}
+//
+//function doOtherThings(thingsagain){
+//otherThings = thingsagain + 4
+//}
+//
+//doOtherThings(doThings)
+//
+//for (i = 0; i < 10; i++) { 
+//  console.log("hi");
+//}
 
 var item = list[Math.floor(Math.random()*list.length)];
-if(item = "dog"){
+if (item.length = 3) {
 console.log("FISH")
 }
 
