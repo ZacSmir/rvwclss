@@ -1,5 +1,10 @@
 #help {
   color: red;
   border-color: coral;
-  border: 10px'
+  border-style: double;
+  border-width: thick
+}
+
+#button {
+color: rebeccapurple
 }
