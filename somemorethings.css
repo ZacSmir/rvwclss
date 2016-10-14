@@ -6,5 +6,6 @@
 }
 
 #button {
-color: rebeccapurple
+color: rebeccapurple;
+border-style: groove;
 }

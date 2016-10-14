@@ -1,6 +1,6 @@
-//var list = ["cat", "dog", "monkey", "elephant", "zebra", "beaver"]
-//console.log()
-//
+var list = ["cat", "dog", "monkey", "elephant", "zebra", "beaver"]
+console.log()
+
 //function pickAnimal(list){
 //  var item = list[Math.floor(Math.random()*list.length)];
 //  console.log(item)
@@ -37,4 +37,6 @@ for (i = 0; i < 10; i++) {
   console.log("hi");
 }
 
+
+if{}
 
