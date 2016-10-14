@@ -22,7 +22,9 @@ function pickTwoAnimals(listOne, listTwo) {
 function animalNameLong(name){
 console.log(name.length)
 }
-
+function doThings(){
+2+
+}
 animalNameLong()
 
 
