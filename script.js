@@ -36,3 +36,10 @@ function meetYou(name){
   console.log("nice to meet you" + name)
 }
 meetYou("bob")
+
+function somethingElse(responce)
+{
+console.log("generic response idk" + responce)
+}
+
+somethingElse()
