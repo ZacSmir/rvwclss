@@ -27,11 +27,10 @@ things = 2 + 2
 console.log(things)
 }
 
-doThings()
-
-function doOtherThings(doThings){
-otherThings
+function doOtherThings(thingsagain){
+otherThings = thingsagain + 4
 }
 
+doOtherThings(doThings)
 
 
