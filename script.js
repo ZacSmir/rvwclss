@@ -6,6 +6,11 @@ function pickAnimal(list){
   console.log(item)
 }
 
-var otherList = ["fish", "Gorilla", ""]
+var otherList = ["fish", "Gorilla", "Mosquitoe", "Cow"]
 
-pickAnimal()
+pickAnimal(otherList)
+
+pickTwoAnimals(listOne, listTwo) {
+  var new_array = old_array.concat(value1[, value2[, ...[, valueN]]])
+}
+
