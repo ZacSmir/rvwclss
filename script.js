@@ -22,16 +22,6 @@ pickTwoAnimals(list, otherList) This works. I just commented it out bc too many 
 function animalNameLong(name){
 console.log(name.length)
 }
-function doThings(){
-things = 2 + 2
-console.log(things)
-}
-
-function doOtherThings(thingsagain){
-otherThings = thingsagain + 4
-}
-
-doOtherThings(doThings)
 
 for (i = 0; i < 10; i++) { 
   console.log("hi");
@@ -42,4 +32,7 @@ if (item.length == 3) {
 console.log("FISH")
 }
 
+  
+function meetYou(name)
+  console.log("nice to meet you" )
 
